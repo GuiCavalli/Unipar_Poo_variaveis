@@ -3,9 +3,9 @@ class HelloWorld {
   
 String NomeDoAluno;
 int IdadeDoAluno; 
-float NotaDaProva1;
-float NotaDaProva2; 
-float MediaFinalD;
+double NotaDaProva1;
+double NotaDaProva2; 
+double MediaFinalD;
   
   
     }
